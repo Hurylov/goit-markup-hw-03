@@ -155,9 +155,7 @@ header {
     margin-bottom: 30px;
 }
 
-.hero .container {
-    width: 696px;
-}
+
 
 .hero-button {
     color: var(--white-color);
@@ -181,6 +179,10 @@ header {
 .alignment {
     display: flex;
     gap: 30px;
+}
+
+.section-feature{
+    padding-top: 94px;
 }
 
 .feature-containt{
@@ -228,7 +230,7 @@ header {
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
-    padding-bottom: 10px;
+    margin-bottom: 10px;
     
 }
 
@@ -265,9 +267,7 @@ address {
     color: var(--white-color);
 }
 
-.footer-address {
-    margin-top: 9px;
-}
+
 
 .contacts-footer {
     color: var(--clear-gray-color);
